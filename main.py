@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ConversationHandler, CallbackQueryHandler
 from models.database import create_tables
 
-from config import BOT_TOKEN
+from config import 8071167662:AAH2taJuwpYfGdV_cwuj16AwX_gOV_im1O4
 from handlers.start import start
 from handlers.help import help_command
 from handlers.user_management import register_start, register_email, register_password, login_start, login_password, profile, cancel, REGISTER_EMAIL, REGISTER_PASSWORD, LOGIN_EMAIL, LOGIN_PASSWORD
