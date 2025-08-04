@@ -1,7 +1,7 @@
 import os
 
 # Bot configuration
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOt Toke", "8071167662:AAH2taJuwpYfGdV_cwuj16AwX_gOV_im1O4")
 
 # Database configuration
 DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///gsm_frp_bot.db")
